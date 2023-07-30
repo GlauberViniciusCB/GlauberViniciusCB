@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <div>
         <p style="background-color: blue;">
-            -  👋 Hi, I’m Glauber Vinicius 
+            -  👋 Olá, Sou Glauber Vinicius <br>
             -  👀 I’m interested in ...
             -  📚 Estudante De Sistemas De Informação
 <div style="background-color: blue;">

@@ -1,7 +1,7 @@
  <p>
             -  👋 Olá, Sou Glauber Vinicius <br>
             -  👀 Interested in Tecnologia Em Geral<br>
-            -  📚 Estudante De Sistemas De Informação<br>
+            -  📚 Graduando De Sistemas De Informação<br>
 <div style="background-color: blue;">
   <p>
     Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código       

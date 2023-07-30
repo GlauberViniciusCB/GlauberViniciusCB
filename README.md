@@ -15,10 +15,6 @@
     Ao longo do tempo, busquei tirar minhas dúvidas com colegas mais experientes, participar de monitorias e frequentar grupos de programação na faculdade. Essas       oportunidades foram fundamentais para o meu crescimento. Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de     
     escrever códigos; era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo.
   </p>
-</div>
-
-        </p>
-    </div>
 </body>
 </html>
 

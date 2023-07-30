@@ -8,7 +8,7 @@
     representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.
   </p>
   <p>
-      Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti       umpouco de receio e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me             
+      Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti       um pouco de receio e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me             
       impulsionaram a superar    essa barreira inicial.
   </p>
   <p>

@@ -8,8 +8,8 @@
     <div>
         <p style="background-color: blue;">
             -  👋 Olá, Sou Glauber Vinicius <br>
-            -  👀 I’m interested in ...
-            -  📚 Estudante De Sistemas De Informação
+            -  👀 I’m interested in ...,<br>
+            -  📚 Estudante De Sistemas De Informação<br>
 <div style="background-color: blue;">
   <p>Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código       
   representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.</p>

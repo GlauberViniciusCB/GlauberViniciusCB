@@ -1,6 +1,6 @@
  <p>
             -  👋 Olá, Sou Glauber Vinicius <br>
-            -  👀 Interested in Tecnologia Em Geral,<br>
+            -  👀 Interested in Tecnologia Em Geral<br>
             -  📚 Estudante De Sistemas De Informação<br>
 <div style="background-color: blue;">
   <p>

@@ -2,7 +2,7 @@
 -  👀 I’m interested in ...
 -  📚 Estudante De Sistemas De Informação
 
-<div background="blue">
+<div style="background-color: blue;">
 <p>Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.</p>
 <p>Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti um pouco de receio e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me impulsionaram a superar essa barreira inicial.</p>
 <p>Ao longo do tempo, busquei tirar minhas dúvidas com colegas mais experientes, participar de monitorias e frequentar grupos de programação na faculdade. Essas oportunidades foram fundamentais para o meu crescimento. Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de escrever códigos; era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo.</p>

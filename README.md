@@ -20,23 +20,14 @@
     </a>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://github.com/GlauberViniciusCB?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GlauberViniciusCB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/GlauberViniciusCB?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GlauberViniciusCB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GlauberViniciusCB/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/GlauberViniciusCB-profile-views"/></a>
 </p>
-
 ###
 
 <p align="left">- 👋 Olá, Sou Glauber Vinicius<br>- 👀 Interested in Tecnologia Em Geral<br>- 📚 Graduando De Sistemas De Informação<br><br>Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.<br><br>Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti um pouco de incômodo e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me impulsionaram a superar essa barreira inicial.<br><br>Ao longo do tempo, busquei tirar minhas dúvidas com colegas mais experientes, participar de monitorias e frequentar grupos de programação na faculdade. Essas oportunidades foram fundamentais para o meu crescimento. Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de escrever códigos; era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo.</p>

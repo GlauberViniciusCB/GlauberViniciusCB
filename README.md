@@ -1,4 +1,4 @@
-# 👨‍💻 Glauber Vinicius
+# 💻 Glauber Vinicius
 <h2 align="left">Sobre Mim</h2>
 
 ###

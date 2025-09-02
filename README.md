@@ -1,8 +1,5 @@
 # 💻 Glauber Vinicius  
 **`Desenvolvedor FullStack`**
-
----
-
 ## 👋 Sobre mim  
 Olá, sou **Glauber Vinicius**  
 

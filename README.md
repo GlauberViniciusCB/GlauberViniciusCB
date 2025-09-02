@@ -4,6 +4,21 @@
 👋 Olá, Sou Glauber Vinicius<br>- 👀 Interested in Tecnologia Em Geral<br>- 📚 Graduando De Sistemas De Informação<br><br>Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.<br><br>Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti um pouco de incômodo e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me impulsionaram a superar essa barreira inicial.<br><br>Ao longo do tempo, busquei tirar minhas dúvidas com colegas mais experientes, participar de monitorias e frequentar grupos de programação na faculdade. Essas oportunidades foram fundamentais para o meu crescimento. Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de escrever códigos; era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo.
 <h2 align="left">Sobre Mim</h2>
 
+<p align="left">
+    <a href="https://github.com/GlauberViniciusCB?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-      badge&labelColor=488207&logo=star&label=estrelas"/>
+    </a>
+    <a href="https://github.com/GlauberViniciusCB?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 ###
 
 <p align="left">- 👋 Olá, Sou Glauber Vinicius<br>- 👀 Interested in Tecnologia Em Geral<br>- 📚 Graduando De Sistemas De Informação<br><br>Este espaço no GitHub é o lugar onde estou compartilhando meus treinos, projetos iniciais e desafios que enfrento como iniciante. Cada linha de código representa um novo aprendizado e um passo em direção ao domínio dessa habilidade fascinante.<br><br>Quando ingressei na faculdade de Engenharia de Telecomunicação, o mundo da programação era completamente desconhecido para mim. No início, confesso que senti um pouco de incômodo e desafio ao me deparar com linhas de código e algoritmos complexos. No entanto, minha curiosidade e desejo de aprender me impulsionaram a superar essa barreira inicial.<br><br>Ao longo do tempo, busquei tirar minhas dúvidas com colegas mais experientes, participar de monitorias e frequentar grupos de programação na faculdade. Essas oportunidades foram fundamentais para o meu crescimento. Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de escrever códigos; era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo.</p>

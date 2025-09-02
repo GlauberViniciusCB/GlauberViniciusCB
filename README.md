@@ -21,23 +21,6 @@ Essas oportunidades foram fundamentais para o meu crescimento.
 Conforme adquiria mais conhecimento e habilidades, percebia que a programação ia muito além de escrever códigos: **era uma forma de solucionar problemas, criar novas possibilidades e impactar positivamente o mundo**.  
 
 ---
-
-## ⭐ Estatísticas do GitHub  
-
-<p align="center">
-  <a href="https://github.com/GlauberViniciusCB?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GlauberViniciusCB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/GlauberViniciusCB?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GlauberViniciusCB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GlauberViniciusCB/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/GlauberViniciusCB-profile-views"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Skills  
 
 <div align="center">

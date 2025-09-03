@@ -1,7 +1,5 @@
 # 💻 Glauber Vinicius  
 **`Desenvolvedor FullStack`**
-## 👋 Sobre mim  
-
 ![Header](githubbanner.png)
 
 

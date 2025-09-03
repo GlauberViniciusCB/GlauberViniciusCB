@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack`**
 ## 👋 Sobre mim  
 Olá, sou **Glauber Vinicius**  
-![Header](github-header-banner (1).png)
+![Header](githubbanner.png)
 
 
 - 👀 Interessado em **Tecnologia em Geral**  

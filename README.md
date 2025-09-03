@@ -1,5 +1,3 @@
-# 💻 Glauber Vinicius  
-**`Desenvolvedor FullStack`**
 ![Header](githubbanner.png)
 
 
